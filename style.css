@@ -1,0 +1,68 @@
+body{
+
+    background-color: rgb(219, 215, 215);
+    font-family: 'Baloo Bhai 2', sans-serif;
+    color: rgb(148, 143, 143);
+    display: flex;
+}
+
+.mainbox{
+
+    background-color: white;
+    border: 2px solid rgb(217, 207, 207);
+    border-radius: 20px;
+    height: 600px;
+    width: 380px;
+    box-shadow: -2px 1px 10px 10px gray;
+    margin: 50px;
+
+}
+
+img{
+
+    height: 262px;
+    width: 360px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.capsules{
+
+    padding-left: 20px;
+}
+
+.capsules span{
+
+    margin: 5px;
+    padding: 1px 10px;
+    border: 1px solid rgb(217, 207, 207);
+    border-radius: 15px;
+}
+
+h1{
+
+    color: rgb(45, 44, 44);
+    padding-left: 20px;
+}
+
+p{
+    padding-left: 20px;
+}
+
+button{
+
+    background-color: rgb(217 233 236);
+    color: rgb(20 110 234);
+    border: none;
+    border-radius: 30px;
+    padding: 15px 30px;
+    margin: auto 120px auto;
+    font-weight: 600;
+}
+
+button:hover{
+
+    cursor:pointer;
+    background-color: rgb(148, 181, 228);
+}
+
